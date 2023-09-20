@@ -1,0 +1,12 @@
+.tablecontainer {
+    height: auto;
+    width: 300px;
+    border: 1px solid black;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid black;
+}
